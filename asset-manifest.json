@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Rico0308/Sprint-2-Portafolio/static/js/main.2c3887a4.chunk.js",
+    "main.js.map": "/Rico0308/Sprint-2-Portafolio/static/js/main.2c3887a4.chunk.js.map",
+    "runtime-main.js": "/Rico0308/Sprint-2-Portafolio/static/js/runtime-main.d98707c7.js",
+    "runtime-main.js.map": "/Rico0308/Sprint-2-Portafolio/static/js/runtime-main.d98707c7.js.map",
+    "static/js/2.061cf35c.chunk.js": "/Rico0308/Sprint-2-Portafolio/static/js/2.061cf35c.chunk.js",
+    "static/js/2.061cf35c.chunk.js.map": "/Rico0308/Sprint-2-Portafolio/static/js/2.061cf35c.chunk.js.map",
+    "index.html": "/Rico0308/Sprint-2-Portafolio/index.html",
+    "static/js/2.061cf35c.chunk.js.LICENSE.txt": "/Rico0308/Sprint-2-Portafolio/static/js/2.061cf35c.chunk.js.LICENSE.txt",
+    "static/media/design.8ecb3043.svg": "/Rico0308/Sprint-2-Portafolio/static/media/design.8ecb3043.svg",
+    "static/media/html.5f794279.jpg": "/Rico0308/Sprint-2-Portafolio/static/media/html.5f794279.jpg",
+    "static/media/profile.0d0e87de.jpeg": "/Rico0308/Sprint-2-Portafolio/static/media/profile.0d0e87de.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d98707c7.js",
+    "static/js/2.061cf35c.chunk.js",
+    "static/js/main.2c3887a4.chunk.js"
+  ]
+}
